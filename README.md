@@ -10,12 +10,26 @@ Supervised classification.
 QGIS.
 
 ## Images from USGS
-- Insert 2 images of Navi Mumbai
-- Insert 2 images of Kolkata
+- Navi Mumbai images
+
+![Navi Mumbai Image 1](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Navi_Mumbai_image_1.jpg)
+![Navi Mumbai Image 2](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Navi_mumbai_image_2.jpg)
+
+- Kolkata images
+
+![Kolkata Image 1](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Kolkata_image_1.jpg)
+![Kolkata Image 1](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Kolkata_image_2.jpg)
 
 ## Classified Images
-- Insert classified image of Navi Mumbai
-- Insert classified image of Kolkata
+- classified image of Navi Mumbai
+  
+![Classified Mumbai](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Mumbai_classified.jpg)
+![Mumbai colors](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Mumbai_colors.png)
+
+- classified image of Kolkata
+  
+![Classified Kolkata](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Kolkata_classified.jpg)
+![Kolkata colors](https://github.com/nadim0330/Land-use-Land-cover-of-Navi-Mumbai/raw/main/project_assets/Kolkata_colors.png)
 
 ## Insights
 1. Similar water body distributions observed.
